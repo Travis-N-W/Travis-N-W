@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+<h2>🌱 What I am Currently Doing:</h2>
+- PicoCTF
+- Python Programming 
+- Learning HTML & CSS
 
 <h2> 🤳 Connect with me:</h2>
 
