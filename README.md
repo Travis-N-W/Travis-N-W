@@ -2,9 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Basic File Integrity Monitor in PowerShell](https://github.com/Travis-N-W/FIM)
+- [Password Strength Checker](https://github.com/Travis-N-W/PWD-Strength-Checker)
+- [Networking Security Lab (Cisco Packet Tracer)](https://github.com/Travis-N-W/Cisco-Packet-Tracer)
+- [Honeypot (Azure)](https://github.com/Travis-N-W/Honeypot)
+- [Active Directory Homelab](https://github.com/Travis-N-W/Active-Directory)
+- [GoPhish](https://github.com/Travis-N-W/GoPhish)
+
 <h2>🌱 What I am Currently Doing:</h2>
+
 - PicoCTF
-- Python Programming 
+- Python Programming
 - Learning HTML & CSS
 
 <h2> 🤳 Connect with me:</h2>
