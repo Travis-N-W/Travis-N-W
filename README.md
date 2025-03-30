@@ -1,4 +1,4 @@
-<h1>Hi, I'm Travis! <br/>
+<h1>Hi 👋, I'm Travis! <br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
