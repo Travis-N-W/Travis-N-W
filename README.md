@@ -13,6 +13,7 @@ This space is where I showcase my cybersecurity projects as I build my expertise
 - [Active Directory Homelab](https://github.com/Travis-N-W/Active-Directory)
 - [GoPhish](https://github.com/Travis-N-W/GoPhish)
 - [Vulnerability Scanner using Tenable Nessus Essentials](https://github.com/Travis-N-W/Nessus/tree/main)
+- [Malware Analysis Sandbox](https://github.com/Travis-N-W/Live-Malware-Analysis/tree/main)
 
 <h2>🌱 What I am Currently Doing:</h2>
 
