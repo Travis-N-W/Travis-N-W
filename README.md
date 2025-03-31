@@ -1,4 +1,8 @@
-<h1>Hi 👋, I'm Travis! <br/>
+# Hi 👋, I'm Travis!
+  
+I'm a biomedical science graduate making the leap into cybersecurity. My passion for technology and problem-solving drives me to understand how systems work and how to secure them. I thrive on tackling complex challenges and learning new skills quickly.  
+
+This space is where I showcase my cybersecurity projects as I build my expertise in the field. Let's connect and grow together in the world of tech! 🚀  
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,6 +12,7 @@
 - [Honeypot (Azure)](https://github.com/Travis-N-W/Honeypot)
 - [Active Directory Homelab](https://github.com/Travis-N-W/Active-Directory)
 - [GoPhish](https://github.com/Travis-N-W/GoPhish)
+- [Vulnerability Scanner using Tenable Nessus Essentials](https://github.com/Travis-N-W/Nessus/tree/main)
 
 <h2>🌱 What I am Currently Doing:</h2>
 
