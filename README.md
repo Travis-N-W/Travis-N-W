@@ -15,6 +15,10 @@ This space is where I showcase my cybersecurity projects as I build my expertise
 - [Vulnerability Scanner using Tenable Nessus Essentials](https://github.com/Travis-N-W/Nessus/tree/main)
 - [Malware Analysis Sandbox](https://github.com/Travis-N-W/Live-Malware-Analysis/tree/main)
 
+<h2>💻 Data Analysis Projects:</h2>
+
+
+  
 <h2>🌱 What I am Currently Doing:</h2>
 
 - PicoCTF
