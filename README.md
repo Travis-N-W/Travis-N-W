@@ -17,7 +17,7 @@ This space is where I showcase my cybersecurity projects as I build my expertise
 
 <h2>💻 Data Analysis Projects:</h2>
 
-
+- [Basic File Integrity Monitor in PowerShell](https://github.com/Travis-N-W/FIM)
   
 <h2>🌱 What I am Currently Doing:</h2>
 
