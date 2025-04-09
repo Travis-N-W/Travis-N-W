@@ -23,7 +23,6 @@ This space is where I showcase my cybersecurity projects as I build my expertise
 
 - PicoCTF
 - Python Programming
-- Learning HTML & CSS
 
 <h2> 🤳 Connect with me:</h2>
 
