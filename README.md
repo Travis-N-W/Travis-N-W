@@ -18,6 +18,7 @@ This space is where I showcase my cybersecurity projects as I build my expertise
 <h2>💻 Data Analysis Projects:</h2>
 
 - [HR Data Analysis Project – MySQL & Power BI](https://github.com/Travis-N-W/MySQL-HR)
+- [Layoffs Data Analysis Project – MySQL & Power BI](https://github.com/Travis-N-W/MySQL-Layoffs)
   
 <h2>🌱 What I am Currently Doing:</h2>
 
