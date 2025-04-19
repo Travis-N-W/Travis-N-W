@@ -1,4 +1,4 @@
-# Hi 👋, I'm Travis!
+# Hello 👋, I'm Travis!
   
 I'm a biomedical science graduate making the leap into cybersecurity. My passion for technology and problem-solving drives me to understand how systems work and how to secure them. I thrive on tackling complex challenges and learning new skills quickly.  
 
